@@ -1,1 +1,1 @@
-# ST443_Project1
+# LSE ST443 Project Neural Network
